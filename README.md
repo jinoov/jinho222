@@ -2,13 +2,14 @@
 Jinho Choi
 
 ## Education
-- Yonsei Univ(Seoul) Industrial Engineering(19.03 -)
+- Yonsei University
+  - BS in Industrial Engineering, 2022.03 - Present
 
 ## Stacks
 - Typescript, React
 
 ## Careeer 
-- Alternative Millitary Service(21.03 - 23.02)
+- Alternative Millitary Service, 2022.03 - Present
   - worked as a web frontend engineer in startups
 
 ## Interests
