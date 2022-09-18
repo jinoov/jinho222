@@ -14,3 +14,4 @@ Jinho Choi
 ## Interests
 - JAM Stack
 - App-Like UX
+- Workflow Automation
