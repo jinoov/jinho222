@@ -8,8 +8,8 @@ Jinho Choi
 ## Stacks
 - Typescript, React
 
-## Careeer 
-- Alternative Millitary Service, 2021.03 - Present
+## Career 
+- Alternative Millitary Service, 2021.03 - 2023.02
   - worked as a web frontend engineer in startups
 
 ## Interests
